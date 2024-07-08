@@ -63,7 +63,8 @@
 
                 Console.WriteLine(EmpArr[i].ToString());
             }
-
+            /* as for part 1 i could not i was no able to do it as i had only 2 free hours to study the lecture and complete the assignment
+             due to work related issues. question 7 in this narrow time span i was not able to search for a proper solution.*/
 
 
 
